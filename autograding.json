@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio01.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio02.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio03.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio04.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio05.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio06.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio07.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio08.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio09.R\")'",
+      "points": 1
+    },
+    {
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio10.R\")'",
+      "points": 1
+    }
+  ]
+}
